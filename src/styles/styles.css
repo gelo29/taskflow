@@ -1,0 +1,123 @@
+.site-header {
+  padding: 1.5rem 1rem;
+  border-bottom: 1px solid #e5e7eb;
+  text-align: center;
+}
+
+.site-logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #111827;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.site-nav li {
+  margin: 0.75rem 0;
+}
+
+.site-nav a {
+  color: #4b5563;
+  font-weight: 500;
+}
+
+.hero {
+  text-align: center;
+  padding: 4rem 1rem;
+}
+
+.hero h1 {
+  margin-bottom: 1rem;
+}
+
+.hero-subtitle {
+  font-size: 1.125rem;
+  color: #6b7280;
+  max-width: 36rem;
+  margin: 0 auto 2rem;
+}
+
+.hero-actions a {
+  display: block;
+  margin: 0.75rem auto;
+  max-width: 16rem;
+}
+
+.cta-button {
+  background-color: #2563eb;
+  color: #ffffff;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.cta-button:hover {
+  background-color: #1d4ed8;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.features,
+.how-it-works,
+.pricing-teaser {
+  padding: 4rem 1rem;
+}
+
+.features h2,
+.how-it-works h2,
+.pricing-teaser h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.feature-list,
+.steps {
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+.feature-list li,
+.steps li {
+  background-color: #f9fafb;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.feature-list h3,
+.steps h3 {
+  margin-bottom: 0.5rem;
+}
+
+.feature-list p,
+.steps p {
+  color: #4b5563;
+}
+
+.pricing-teaser {
+  background-color: #f9fafb;
+  text-align: center;
+}
+
+.pricing-teaser p {
+  max-width: 32rem;
+  margin: 0 auto 2rem;
+  color: #4b5563;
+}
+
+.site-footer {
+  padding: 2rem 1rem;
+  border-top: 1px solid #e5e7eb;
+  text-align: center;
+  color: #6b7280;
+}
+
+.site-footer nav {
+  margin-top: 1rem;
+}
+
+.site-footer nav li {
+  display: inline-block;
+  margin: 0 0.5rem;
+}
